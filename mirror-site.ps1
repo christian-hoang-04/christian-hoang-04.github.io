@@ -237,7 +237,7 @@ foreach ($page in $pages) {
     $contactBlock = @'
 <h4>Contact</h4>
 <ul>
-    <li><a href="https://huggingface.co/christian-hoang-04">My HF</a></li>
+    <li><a href="https://huggingface.co/christian-hoang-04">Hugging Face</a></li>
     <li><a href="https://github.com/christian-hoang-04">GitHub</a></li>
     <li><a href="https://scholar.google.com/citations?user=mfm8-PkAAAAJ&hl=en">Google Scholar</a></li>
 </ul>
