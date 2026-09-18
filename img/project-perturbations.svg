@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Perturbation robustness project visual</title><desc id="desc">Abstract visual for robustness analysis in language models.</desc>
+  <rect width="640" height="360" fill="#d8d3ca"/><path d="M70 280L160 190l72 50 92-126 88 62 110-84" fill="none" stroke="#ba727f" stroke-width="18"/><path d="M70 280L160 190l72 50 92-126 88 62 110-84" fill="none" stroke="#111" stroke-width="4"/><circle cx="160" cy="190" r="13" fill="#111"/><circle cx="324" cy="114" r="13" fill="#111"/><circle cx="522" cy="92" r="13" fill="#111"/><text x="32" y="332" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#111">ROBUSTNESS</text>
+</svg>

@@ -1,0 +1,2081 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="102.8077mm"
+   height="73.763916mm"
+   viewBox="0 0 102.8077 73.763916"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3rc (9500139e98, 2025-12-13)"
+   sodipodi:docname="cesa.svg"
+   inkscape:export-filename="figure_intro.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.0790889"
+     inkscape:cx="308.69521"
+     inkscape:cy="115.61862"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient266"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop266" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop267" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect217"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect215"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect213"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect211"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect209"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect207"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect205"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect203"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect201"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect189" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect187"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect185"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect183"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect181"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect179"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect177"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect175"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect173"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect171"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect169"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect167"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect165"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect163"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect161"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect159"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect157"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect155"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect137"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect135"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect133"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect131"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect127"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect125"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect123"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect121"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect119"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect117"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect115"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect113"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect111"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect109"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect107"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect105"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect103"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect101"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect99"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect97"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect95"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect93"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect73"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect71"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect69"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect67"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect65"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect63"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect61"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect59"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect57"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="strokeWidth">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path46" />
+    </marker>
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect46"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect45"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect43"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect41"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect39"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect37"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect35"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect33"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect31"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect20"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect18"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect16"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect14"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect218" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect220" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect224" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect225" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect226" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect189-3" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect218-1" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect220-4" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect224-9" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect225-2" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect189-3-0" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect218-1-6" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect220-4-1" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect224-9-5" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect225-2-9" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect230" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect231" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect232" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect235" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect236" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect239" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect240" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect243" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect244" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect248" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect249" />
+    <rect
+       x="69.927834"
+       y="113.56096"
+       width="66.985718"
+       height="79.307808"
+       id="rect250" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient266"
+       id="linearGradient267"
+       x1="117.41412"
+       y1="49.884823"
+       x2="113.44087"
+       y2="49.884823"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5375904,0,0,1,-63.630557,0)" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(-15.554828,-13.002864)" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.554828,-13.002864)">
+    <rect
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.605668;stroke-linecap:square;stroke-linejoin:round"
+       id="rect20"
+       width="41.72253"
+       height="28.233883"
+       x="15.663404"
+       y="20.013613"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.21762;stroke-linecap:square;stroke-linejoin:round"
+       id="rect222"
+       width="18.949217"
+       height="8.0256224"
+       x="37.012482"
+       y="35.101707"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1"
+       x="16.988636"
+       y="23.667837"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="16.988636"
+         y="23.667837">Doc 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1"
+       x="37.096966"
+       y="23.667837"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="37.096966"
+         y="23.667837">Model A</tspan></text>
+    <rect
+       style="fill:#e8e9be;fill-opacity:1;stroke-width:0.250888;stroke-linecap:square;stroke-linejoin:round"
+       id="rect26"
+       width="18.949217"
+       height="10.666939"
+       x="16.90415"
+       y="24.798847"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.93889px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="15.930306"
+       y="18.376175"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="15.930306"
+         y="18.376175">ESA (current)</tspan></text>
+    <path
+       style="fill:#f1f1f1;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded)"
+       d="m 78.494042,37.722873 c 0.888663,0 1.777327,0 2.66599,0"
+       id="path45"
+       inkscape:original-d="m 78.494042,37.722873 h 2.66599"
+       inkscape:path-effect="#path-effect46"
+       transform="translate(-20.637503,-1.5875)"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#f1f1f1;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded)"
+       d="m 78.494042,37.722873 c 0.888663,0 1.777327,0 2.66599,0"
+       id="path56"
+       inkscape:original-d="m 78.494042,37.722873 h 2.66599"
+       inkscape:path-effect="#path-effect73"
+       transform="translate(25.228139,-2.1166667)"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.852585;stroke-linecap:square;stroke-linejoin:round"
+       id="rect73"
+       width="82.675186"
+       height="28.233999"
+       x="15.663404"
+       y="58.528969"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1"
+       x="16.988636"
+       y="62.296997"
+       id="text73"><tspan
+         sodipodi:role="line"
+         id="tspan73"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="16.988636"
+         y="62.296997">Doc 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.93889px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="15.930306"
+       y="57.005341"
+       id="text82"><tspan
+         sodipodi:role="line"
+         id="tspan82"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="15.930306"
+         y="57.005341">contrastive ESA (proposed)</tspan></text>
+    <path
+       style="fill:#f1f1f1;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded)"
+       d="m 78.494042,37.722873 c 0.888663,0 1.777327,0 2.66599,0"
+       id="path92"
+       inkscape:original-d="m 78.494042,37.722873 h 2.66599"
+       inkscape:path-effect="#path-effect127"
+       transform="translate(21.166664,36.512495)"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.637468;stroke-linecap:square;stroke-linejoin:round"
+       id="rect137"
+       width="46.218559"
+       height="28.233999"
+       x="103.50507"
+       y="58.529327"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1"
+       x="104.8303"
+       y="62.296997"
+       id="text137"><tspan
+         sodipodi:role="line"
+         id="tspan137"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="104.8303"
+         y="62.296997">Doc 2</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.64547627,-4.557094)"
+       id="text189"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect189);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan4"><tspan
+           style="font-weight:normal"
+           id="tspan3">Die sehr hungrige </tspan></tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan6"><tspan
+           style="font-weight:normal"
+           id="tspan5">Raupe schlüpfte aus </tspan></tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan8"><tspan
+           style="font-weight:normal"
+           id="tspan7">dem Ei.
+</tspan></tspan><tspan
+         x="69.927734"
+         y="138.78863"
+         id="tspan11"><tspan
+           style="font-weight:normal"
+           id="tspan10">Sie begann un-mittelbar </tspan></tspan><tspan
+         x="69.927734"
+         y="145.45531"
+         id="tspan13"><tspan
+           style="font-weight:normal"
+           id="tspan12">mit der Nahrungssuche.</tspan></tspan></text>
+    <rect
+       style="fill:#e8e9be;fill-opacity:1;stroke-width:0.21762;stroke-linecap:square;stroke-linejoin:round"
+       id="rect217"
+       width="18.949217"
+       height="8.0256224"
+       x="16.90415"
+       y="35.988182"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.64547627,7.3276168)"
+       id="text217"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect218);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan14">Montag: Konsum von </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan15">einem Apfel. Hunger </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan16">bleibt bestehen. ...</tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.241665;stroke-linecap:square;stroke-linejoin:round"
+       id="rect221"
+       width="18.949217"
+       height="9.8971128"
+       x="37.012482"
+       y="24.771931"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#f2a28c;fill-opacity:1;stroke:none;stroke-width:0.717381;stroke-dasharray:none;stroke-opacity:1"
+       id="rect261"
+       width="5.5980973"
+       height="1.8371273"
+       x="46.250305"
+       y="27.208418" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,19.462857,-4.557094)"
+       id="text221"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect224);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan18"><tspan
+           style="font-weight:normal"
+           id="tspan17">The very hungry </tspan></tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan21"><tspan
+           style="font-weight:normal"
+           id="tspan19">earthworm slipped from </tspan></tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan23"><tspan
+           style="font-weight:normal"
+           id="tspan22">the egg.
+</tspan></tspan><tspan
+         x="69.927734"
+         y="138.78863"
+         id="tspan25"><tspan
+           style="font-weight:normal"
+           id="tspan24">It immediately started </tspan></tspan><tspan
+         x="69.927734"
+         y="145.45531"
+         id="tspan27"><tspan
+           style="font-weight:normal"
+           id="tspan26">eating</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,19.462857,5.9119749)"
+       id="text222"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect225);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan28">Monday: Consumption </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan29">of an apple. Hunger </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan30">persists. ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="54.058197"
+       y="46.951168"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="54.058197"
+         y="46.951168">90%</tspan></text>
+    <rect
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.605668;stroke-linecap:square;stroke-linejoin:round"
+       id="rect20-8"
+       width="41.72253"
+       height="28.233883"
+       x="61.912502"
+       y="19.843746"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1"
+       x="63.237736"
+       y="23.497971"
+       id="text1-9"><tspan
+         sodipodi:role="line"
+         id="tspan1-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="63.237736"
+         y="23.497971">Doc 1</tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.241665;stroke-linecap:square;stroke-linejoin:round"
+       id="rect221-1"
+       width="18.949217"
+       height="9.8971128"
+       x="83.261574"
+       y="24.628983"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1"
+       x="83.346054"
+       y="23.497971"
+       id="text2-6"><tspan
+         sodipodi:role="line"
+         id="tspan2-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="83.346054"
+         y="23.497971">Model B</tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.263436;stroke-linecap:square;stroke-linejoin:round"
+       id="rect26-4"
+       width="18.949217"
+       height="11.760637"
+       x="63.153248"
+       y="24.628983"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,45.603622,-4.7269592)"
+       id="text189-9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect189-3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan32"><tspan
+           style="font-weight:normal"
+           id="tspan31">Die sehr hungrige </tspan></tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan34"><tspan
+           style="font-weight:normal"
+           id="tspan33">Raupe schlüpfte aus </tspan></tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan36"><tspan
+           style="font-weight:normal"
+           id="tspan35">dem Ei.
+</tspan></tspan><tspan
+         x="69.927734"
+         y="138.78863"
+         id="tspan38"><tspan
+           style="font-weight:normal"
+           id="tspan37">Sie begann un-mittelbar </tspan></tspan><tspan
+         x="69.927734"
+         y="145.45531"
+         id="tspan40"><tspan
+           style="font-weight:normal"
+           id="tspan39">mit der Nahrungssuche.</tspan></tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.21762;stroke-linecap:square;stroke-linejoin:round"
+       id="rect217-5"
+       width="18.949217"
+       height="8.0256224"
+       x="63.153248"
+       y="36.876648"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,45.603622,7.6869182)"
+       id="text217-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect218-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan41">Montag: Konsum von </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan42">einem Apfel. Hunger </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan43">bleibt bestehen. ...</tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.21762;stroke-linecap:square;stroke-linejoin:round"
+       id="rect222-2"
+       width="18.949217"
+       height="8.0256224"
+       x="83.261574"
+       y="34.931839"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#f2a28c;fill-opacity:1;stroke:none;stroke-width:0.657435;stroke-dasharray:none;stroke-opacity:1"
+       id="rect263"
+       width="4.7016096"
+       height="1.8371273"
+       x="84.033806"
+       y="26.995756" />
+    <rect
+       style="fill:#e3482f;fill-opacity:1;stroke:none;stroke-width:0.543743;stroke-dasharray:none;stroke-opacity:1"
+       id="rect264"
+       width="3.2160943"
+       height="1.8371273"
+       x="84.124939"
+       y="39.227345" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,65.711955,-4.7269592)"
+       id="text221-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect224-9);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan44">The starving caterpillar </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan45">sliped out of the egg </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan46">and later started </tspan><tspan
+         x="69.927734"
+         y="138.78863"
+         id="tspan47">foraging.</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,65.711955,5.7421096)"
+       id="text222-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect225-2);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan48">Monday: Consumption </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan49">of a plum. Not satiated </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan50">still.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="100.30728"
+       y="46.7813"
+       id="text9-2"><tspan
+         sodipodi:role="line"
+         id="tspan9-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="100.30728"
+         y="46.7813">85%</tspan></text>
+    <rect
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.605668;stroke-linecap:square;stroke-linejoin:round"
+       id="rect20-8-0"
+       width="41.72253"
+       height="28.233883"
+       x="107.15625"
+       y="20.10833"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.21762;stroke-linecap:square;stroke-linejoin:round"
+       id="rect217-5-6"
+       width="18.949217"
+       height="8.0256224"
+       x="108.39699"
+       y="36.612061"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1"
+       x="108.48146"
+       y="23.762554"
+       id="text1-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan1-2-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="108.48146"
+         y="23.762554">Doc 1</tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.263436;stroke-linecap:square;stroke-linejoin:round"
+       id="rect26-4-1"
+       width="18.949217"
+       height="11.760637"
+       x="108.39699"
+       y="24.364399"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,90.847371,-4.9915409)"
+       id="text189-9-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect189-3-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan51">Die sehr hungrige </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan52">Raupe schlüpfte aus </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan53">dem Ei.
+</tspan><tspan
+         x="69.927734"
+         y="138.78863"
+         id="tspan54">Sie begann un-mittelbar </tspan><tspan
+         x="69.927734"
+         y="145.45531"
+         id="tspan55">mit der Nahrungssuche.</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,90.847371,7.4223355)"
+       id="text217-0-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect218-1-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan56">Montag: Konsum von </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan57">einem Apfel. Hunger </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan58">bleibt bestehen. ...</tspan></text>
+    <rect
+       style="fill:#e8e9be;fill-opacity:1;stroke-width:0.245502;stroke-linecap:square;stroke-linejoin:round"
+       id="rect227"
+       width="18.949217"
+       height="10.213914"
+       x="16.90415"
+       y="63.428017"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.64547627,34.072071)"
+       id="text228"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect230);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan60"><tspan
+           style="font-weight:normal"
+           id="tspan59">Die sehr hungrige </tspan></tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan62"><tspan
+           style="font-weight:normal"
+           id="tspan61">Raupe schlüpfte aus </tspan></tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan64"><tspan
+           style="font-weight:normal"
+           id="tspan63">dem Ei.
+</tspan></tspan><tspan
+         x="69.927734"
+         y="138.78863"
+         id="tspan66"><tspan
+           style="font-weight:normal"
+           id="tspan65">Sie begann un-mittelbar </tspan></tspan><tspan
+         x="69.927734"
+         y="145.45531"
+         id="tspan68"><tspan
+           style="font-weight:normal"
+           id="tspan67">mit der Nahrungssuche.</tspan></tspan></text>
+    <rect
+       style="fill:#e8e9be;fill-opacity:1;stroke-width:0.21762;stroke-linecap:square;stroke-linejoin:round"
+       id="rect228"
+       width="18.949217"
+       height="8.0256224"
+       x="16.90415"
+       y="74.260033"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.64547627,45.070306)"
+       id="text229"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect231);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan69">Montag: Konsum von </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan70">einem Apfel. Hunger </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan71">bleibt bestehen. ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1"
+       x="37.096966"
+       y="62.297005"
+       id="text232"><tspan
+         sodipodi:role="line"
+         id="tspan232"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="37.096966"
+         y="62.297005">Model A</tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.246533;stroke-linecap:square;stroke-linejoin:round"
+       id="rect233"
+       width="18.949217"
+       height="10.299843"
+       x="37.012482"
+       y="63.428017"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#e3482f;fill-opacity:1;stroke:none;stroke-width:0.868099;stroke-dasharray:none;stroke-opacity:1"
+       id="rect254"
+       width="8.1974525"
+       height="1.8371273"
+       x="37.874779"
+       y="65.837593" />
+    <rect
+       style="fill:#f2a28c;fill-opacity:1;stroke:none;stroke-width:0.706284;stroke-dasharray:none;stroke-opacity:1"
+       id="rect256"
+       width="5.426239"
+       height="1.8371273"
+       x="46.250305"
+       y="65.837593" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,19.462857,34.072071)"
+       id="text233"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect235);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan72">The very hungry </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan74">earthworm slipped from </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan75">the egg.
+</tspan><tspan
+         x="69.927734"
+         y="138.78863"
+         id="tspan76">It immediately started </tspan><tspan
+         x="69.927734"
+         y="145.45531"
+         id="tspan77">eating</tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.21762;stroke-linecap:square;stroke-linejoin:round"
+       id="rect234"
+       width="18.949217"
+       height="8.0256224"
+       x="37.012482"
+       y="74.260033"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,19.462857,45.070306)"
+       id="text234"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect236);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan78">Monday: Consumption </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan79">of an apple. Hunger </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan80">persists. ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="54.058197"
+       y="85.580322"
+       id="text235"><tspan
+         sodipodi:role="line"
+         id="tspan235"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="54.058197"
+         y="85.580322">60%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1"
+       x="57.205303"
+       y="62.297005"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan236"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="57.205303"
+         y="62.297005">Model B</tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.246533;stroke-linecap:square;stroke-linejoin:round"
+       id="rect237"
+       width="18.949217"
+       height="10.299843"
+       x="57.120819"
+       y="63.428017"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.21762;stroke-linecap:square;stroke-linejoin:round"
+       id="rect238"
+       width="18.949217"
+       height="8.0256224"
+       x="57.120819"
+       y="74.260033"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#e3482f;fill-opacity:1;stroke:none;stroke-width:0.568501;stroke-dasharray:none;stroke-opacity:1"
+       id="rect257"
+       width="3.5156355"
+       height="1.8371273"
+       x="61.066978"
+       y="67.610764" />
+    <rect
+       style="fill:#f2a28c;fill-opacity:1;stroke:none;stroke-width:0.661507;stroke-dasharray:none;stroke-opacity:1"
+       id="rect258"
+       width="4.7600265"
+       height="1.8371273"
+       x="57.891975"
+       y="65.776833" />
+    <rect
+       style="fill:#e3482f;fill-opacity:1;stroke:none;stroke-width:0.562281;stroke-dasharray:none;stroke-opacity:1"
+       id="rect259"
+       width="3.4391286"
+       height="1.8371273"
+       x="57.983116"
+       y="78.537582" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,39.571191,34.072071)"
+       id="text237"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect239);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan81">The starving caterpillar </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan83">sliped out of the egg </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan84">and later started </tspan><tspan
+         x="69.927734"
+         y="138.78863"
+         id="tspan85">foraging.</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,39.571191,45.070306)"
+       id="text238"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect240);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan86">Monday: Consumption </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan87">of a plum. Not satiated </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan88">still.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="74.166527"
+       y="85.580322"
+       id="text239"><tspan
+         sodipodi:role="line"
+         id="tspan239"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="74.166527"
+         y="85.580322">70%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1"
+       x="77.313629"
+       y="62.297005"
+       id="text240"><tspan
+         sodipodi:role="line"
+         id="tspan240"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="77.313629"
+         y="62.297005">Model C</tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.246533;stroke-linecap:square;stroke-linejoin:round"
+       id="rect241"
+       width="18.949217"
+       height="10.299843"
+       x="77.229149"
+       y="63.428017"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,59.679525,34.072071)"
+       id="text241"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect243);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan89">The very hungry </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan90">caterpillar hatched from </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan91">the egg.
+</tspan><tspan
+         x="69.927734"
+         y="138.78863"
+         id="tspan92">It immediately began </tspan><tspan
+         x="69.927734"
+         y="145.45531"
+         id="tspan93">foraging.</tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.21762;stroke-linecap:square;stroke-linejoin:round"
+       id="rect242"
+       width="18.949217"
+       height="8.0256224"
+       x="77.229149"
+       y="74.260033"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,59.679525,45.070306)"
+       id="text242"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect244);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan95"><tspan
+           style="font-weight:normal"
+           id="tspan94">Monday: Consumption </tspan></tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan97"><tspan
+           style="font-weight:normal"
+           id="tspan96">of one apple. Hunger </tspan></tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan99"><tspan
+           style="font-weight:normal"
+           id="tspan98">persists. ...</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.52778px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:end;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="94.274849"
+       y="85.580322"
+       id="text243"><tspan
+         sodipodi:role="line"
+         id="tspan243"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="94.274849"
+         y="85.580322">100%</tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.221622;stroke-linecap:square;stroke-linejoin:round"
+       id="rect245"
+       width="18.949217"
+       height="8.323473"
+       x="104.7458"
+       y="62.898849"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,87.196191,33.542904)"
+       id="text245"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect248);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan100">Dienstag: Konsum von </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan101">zwei Birnen. Hunger </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan102">bleibt bestehen.</tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.21762;stroke-linecap:square;stroke-linejoin:round"
+       id="rect246"
+       width="18.949217"
+       height="8.0256224"
+       x="104.7458"
+       y="71.971504"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,87.196191,42.78178)"
+       id="text246"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect249);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan103">Mittwoch: Konsum von </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan104">drei Pflaumen. Hunger </tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan105">bleibt bestehen.</tspan></text>
+    <rect
+       style="fill:#dbe9be;fill-opacity:1;stroke-width:0.181705;stroke-linecap:square;stroke-linejoin:round"
+       id="rect247"
+       width="18.949217"
+       height="5.5951805"
+       x="104.7458"
+       y="80.727028"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,86.970831,51.096547)"
+       id="text247"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66667px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect250);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"
+       x="-30.658014"
+       y="0"><tspan
+         x="69.927734"
+         y="118.78862"
+         id="tspan106">Donnerstag: Konsum </tspan><tspan
+         x="69.927734"
+         y="125.45529"
+         id="tspan107">von vier
+</tspan><tspan
+         x="69.927734"
+         y="132.12196"
+         id="tspan108"> ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#e1463a;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="60.837803"
+       y="76.390968"
+       id="text256"><tspan
+         sodipodi:role="line"
+         id="tspan256"
+         style="stroke-width:0.4;-inkscape-font-specification:'Linux Libertine O Bold';font-family:'Linux Libertine O';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="60.837803"
+         y="77.73111" /></text>
+    <rect
+       style="fill:url(#linearGradient267);stroke:none;stroke-width:0.495998;stroke-dasharray:none;stroke-opacity:1"
+       id="rect266"
+       width="9.1142168"
+       height="73.763916"
+       x="109.77748"
+       y="13.002864"
+       rx="0"
+       ry="0" />
+  </g>
+</svg>

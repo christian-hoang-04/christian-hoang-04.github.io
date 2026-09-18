@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">SilVar project visual</title><desc id="desc">Abstract visual for speech-driven multimodal reasoning.</desc>
+  <rect width="640" height="360" fill="#e6d0d2"/><circle cx="160" cy="180" r="92" fill="#ba727f"/><path d="M260 118h240v34H260zm0 58h180v34H260zm0 58h220v34H260z" fill="#111"/><path d="M100 118l60-38 60 38v76l-60 38-60-38z" fill="none" stroke="#111" stroke-width="8"/><text x="32" y="332" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#111">SILVAR</text>
+</svg>

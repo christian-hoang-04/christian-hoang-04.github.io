@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">MultiCulturalRiddle project visual</title><desc id="desc">Abstract visual for a multicultural riddle benchmark.</desc>
+  <rect width="640" height="360" fill="#ead9cb"/><path d="M120 228c0-88 58-150 140-150s140 62 140 150" fill="none" stroke="#111" stroke-width="18"/><circle cx="260" cy="156" r="32" fill="#ba727f"/><path d="M238 238h44" stroke="#111" stroke-width="12"/><circle cx="140" cy="272" r="20" fill="#111"/><circle cx="220" cy="300" r="20" fill="#ba727f"/><circle cx="300" cy="272" r="20" fill="#111"/><text x="32" y="332" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111">RIDDLES</text>
+</svg>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="Cache-control" content="public">
+  <meta name="description"
+    content="Christian Hoang is an PhD student at ETH Zürich working on evaluation and multilingual NLP.">
+  <meta name="keywords"
+    content="Christian Hoang is an PhD student at ETH Zürich working on evaluation and multilingual NLP.">
+  <meta name="author" content="Christian Hoang">
+
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Merriweather&display=swap"
+    rel="stylesheet">
+
+  <link rel='stylesheet' type='text/css' href='src/style.css?v=19'>
+  <link rel='icon' type='image/jpeg' href='src/avatar.jpg?v=2'>
+  <title>Christian Hoang</title>
+  <meta name="viewport" content="width=840px">
+  <script src='src/router.js' defer></script>
+</head>
+
+
+
+<body style='padding-top: 50px; padding-bottom: 50px;'>
+  <div id='whole'>
+    <div id='menu'>
+      <img id='portrait' src='src/avatar.jpg' alt='avatar of Christian Hoang'
+        style='width: 201px; height: 201px; object-fit: cover; border: 2px solid black;'>
+      <div style="display: inline-block; vertical-align: top; margin-top: -27px;">
+        <h1 style='font-size: 2em; display: inline-block; font-weight: bold; border: 2px solid black; padding: 2px;'>
+          Christian Hoang
+        </h1>
+        <br>
+        BSc at FPT Ho Chi Minh<br>
+        Artificial Inteligence<br>
+        <span style="font-weight: bold; ">
+          Open to collaboration
+        </span>
+        <br>
+        <a href="mailto:christianhoang04@gmail.com" target="_blank" rel="noopener noreferrer">christianhoang04@gmail.com</a>&nbsp;
+        <a href="https://scholar.google.com/citations?user=mfm8-PkAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+        <br>
+        <div id="navmenu" style="margin-top: 45px; margin-bottom: 50px;">
+          <a href="about.html">about</a>
+          <a href="research.html">research</a>
+        </div>
+      </div>
+    </div>
+
+
+    <div id='content' style='margin-top: 20px;'>
+<h4>Publications</h4>
+
+<div class='paper_details paper_details_withimg'>
+  <div class='paper_title'>Meddies-PII: A Multilingual Framework for Personally Identifiable Information Extraction in Clinical De-identification</div>
+  <span class='authors_span'>Ongoing;&nbsp;&nbsp;&nbsp;Le Linh Uyen, Christian Hoang, Ha Huy Hoang</span>
+  <div style='margin-top: 5px;'><a href='https://arxiv.org/pdf/2609.12544' class='paper_details_link' target="_blank" rel="noopener noreferrer">paper</a><a href='https://huggingface.co/datasets/Meddies/meddies-pii' class='paper_details_link' target="_blank" rel="noopener noreferrer">dataset</a><a href='https://huggingface.co/Meddies/meddies-pii' class='paper_details_link' target="_blank" rel="noopener noreferrer">model</a><a href='https://redact.meddies.ai/' class='paper_details_link' target="_blank" rel="noopener noreferrer">demo</a></div>
+  <img class='project_visual project_visual_meddies' src='img/project-meddies-pii.png' alt='Meddies-PII generation and verification pipeline' loading='lazy'>
+  <div style='margin-top: 5px;'>Clinical de-identification depends on accurately identifying personally identifiable information (PII). However, manually annotated datasets are costly to build, and existing synthetic alternatives often provide limited generation details or use relatively simple synthesis strategies. We introduce Meddies-PII-Dataset, which contains one million synthetic clinical documents across seventeen languages and nine PII labels. Attribute-conditioned prompts generate the documents, and thirteen deterministic gates check their structural and annotation validity. To assess the datasetâ€™s utility, we train Meddies-PII-Model, a BIOES token classifier. We compare it with existing PII extraction systems using exact-match entity-level F1. Meddies-PII-Model achieves the highest score among the evaluated systems on all reported benchmarks, with a mean F1 of 0.827 across fifteen external benchmarks compared with 0.658 for the strongest baseline. Upon acceptance, we will publicly release the dataset, benchmark, model, generation framework, and evaluation code to support research on multilingual clinical de-identification.</div>
+</div>
+<div class='paper_details paper_details_withimg'>
+  <div class='paper_title'>Last Translation Benchmark</div>
+  <span class='authors_span'>Ongoing;&nbsp;&nbsp;&nbsp;Vil&eacute;m Zouhar, Niyati Bafna, Mukund Choudhary, including Christian Hoang</span>
+  <div style='margin-top: 5px;'><a href='https://arxiv.org/pdf/2609.04173' class='paper_details_link' target="_blank" rel="noopener noreferrer">paper</a><a href='mailto:last-translation-benchmark@vilda.net' class='paper_details_link' target="_blank" rel="noopener noreferrer">email</a><a href='https://last-translation-benchmark.vilda.net/' class='paper_details_link' target="_blank" rel="noopener noreferrer">website</a><a href='https://huggingface.co/datasets/zouhar/last-translation-benchmark' class='paper_details_link' target="_blank" rel="noopener noreferrer">dataset</a><a href='https://github.com/zouharvi/last-translation-benchmark' class='paper_details_link' target="_blank" rel="noopener noreferrer">code</a></div>
+  <img class='project_visual project_visual_ltb' src='img/favicon.svg' alt='Last Translation Benchmark project visual' loading='lazy'>
+  <div style='margin-top: 5px;'>For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation. Further, automatic translation metrics are unreliable, vulnerable to reward-hacking and provide unactionable assessments. Even gold human evaluation is not problem-free, because it often lacks reproducibility, objectivity, and scalability. Overall, this prevents us from tracking objective progress in the field and identifying pathways for improvement. We introduce the Last Translation Benchmark, a collection of human-authored and peer-reviewed examples (texts, images, audio, videos) that break leading machine translation models. We also present a new evaluation approach: each example comes with handcrafted verification rules describing concrete failure cases on that example, therefore allowing reliable and actionable future evaluation. The Last Translation Benchmark is a live dataset that accepts ongoing contributions. The latest version is LTBv1, containing accepted contributions prior to September 1st 2026, with future releases planned as new data is continuously collected.</div>
+</div>
+
+<div class='paper_details paper_details_withimg'>
+  <div class='paper_title'>How Perturbations Propagate: A Multi-Level Analysis of Robustness in Large Language Models</div>
+  <span class='authors_span'>Ongoing;&nbsp;&nbsp;&nbsp;Dun Li Chan, Emily Liu, Niyathi Allu, Christian Hoang</span>
+  <div style='margin-top: 5px;'><a href='https://arxiv.org/pdf/2609.03322' class='paper_details_link' target="_blank" rel="noopener noreferrer">paper</a><a href='https://github.com/emilyzfliu/decoding-robustness' class='paper_details_link' target="_blank" rel="noopener noreferrer">code</a></div>
+  <img class='project_visual project_visual_perturbations' src='img/project-perturbations.png' alt='Heatmaps showing perturbation propagation across layers' loading='lazy'>
+  <div style='margin-top: 5px;'>Language models encounter typos, corrupted text, altered words, and disrupted token order, yet robustness is usually evaluated only through output behavior. We study how six naturalistic and synthetic input perturbations propagate through decoder-only language models at three levels: output behavior, hidden-state geometry, and attention-head function. We evaluate behavioral effects across four GPT-2 and two Qwen2.5 checkpoints by analyzing layerwise geometry using centered kernel alignment and intrinsic dimension, and examine attention-head responses in GPT-2. Perturbation types produce distinguishable metric profiles that are not fully captured by output measures and are only partly consistent across the tested checkpoints. Copying scores are especially associated with activation-patching recovery under token substitution and shuffling. Gradient-guided HotFlip perturbations also cause stronger behavioral and representational disruption than rate-matched random token substitutions in GPT-2; their behavioral effects are consistent across all six tested checkpoints. Our results show that robustness claims based on a single behavioral or representational metric can be misleading, and motivate multi-level evaluation of how perturbations alter language-model computation.</div>
+</div>
+
+<div class='paper_details paper_details_withimg'>
+  <div class='paper_title'>SilVar: Speech-Driven Multimodal Model for Reasoning Visual Question Answering and Object Localization</div>
+  <span class='authors_span'>EMNLP 2025;&nbsp;&nbsp;&nbsp;Tan-Hanh Pham, Christian Hoang, Phu-Vinh Nguyen, Chris Ngo, Truong Son Hy</span>
+  <div style='margin-top: 5px;'><a href='https://aclanthology.org/2025.emnlp-main.589.pdf' class='paper_details_link' target="_blank" rel="noopener noreferrer">paper</a><a href='https://github.com/Hanhpt23/SilVar' class='paper_details_link' target="_blank" rel="noopener noreferrer">code</a></div>
+  <img class='project_visual project_visual_silvar' src='img/project-silvar.png' alt='SilVar paper figure showing the speech-driven multimodal model' loading='lazy'>
+  <div style='margin-top: 5px;'>Visual Language Models have demonstrated remarkable capabilities across various tasks, including visual question answering and image captioning. However, most models rely on text-based instructions, limiting their effectiveness in natural human-machine interactions. Moreover, the quality of language models primarily depends on reasoning and prompting techniques, such as chain-of-thought, which remain underexplored when using speech instructions. To address these challenges, we propose SilVar, an end-to-end multimodal model that leverages speech instructions for reasoning-based visual question answering. Additionally, we investigate reasoning techniques at different levels, including conversational, simple, and complex speech instructions. SilVar is built upon CLIP, Whisper, and LLaMA 3.1-8B, enabling more intuitive interactions by allowing users to provide verbal or text-based instructions. To this end, we introduce a new dataset designed to challenge models with speech-based reasoning tasks for object localization. This dataset enhances the model&rsquo;s ability to process and explain visual scenes from spoken input, moving beyond simple object recognition to reasoning-based interactions. To our knowledge, SilVar is the first open-source, speech-driven VLM. We believe SilVar will inspire the next generation of multimodal reasoning models, advancing toward expert artificial general intelligence.</div>
+</div>
+
+
+    </div>
+</body>
+
+</html>

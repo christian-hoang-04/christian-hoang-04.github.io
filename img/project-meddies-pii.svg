@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Meddies PII project visual</title><desc id="desc">Abstract visual for multilingual clinical de-identification.</desc>
+  <rect width="640" height="360" fill="#e4dfd5"/><rect x="82" y="62" width="360" height="230" rx="8" fill="#fff" stroke="#111" stroke-width="7"/><path d="M116 116h290M116 160h230M116 204h260" stroke="#ba727f" stroke-width="16"/><path d="M478 106h64v64h-64zM478 194h64v64h-64z" fill="#111"/><text x="32" y="332" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#111">MEDDIES PII</text>
+</svg>

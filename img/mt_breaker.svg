@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="233"
+   height="132"
+   viewBox="-0.5 -0.5 233 132"
+   id="svg78"
+   sodipodi:docname="mt_breaker.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:export-filename="highlevel.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <sodipodi:namedview
+     id="namedview78"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="false"
+     inkscape:zoom="4.5200288"
+     inkscape:cx="81.968504"
+     inkscape:cy="55.309382"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg78"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="0.66371259"
+       y="-14.380439"
+       width="216.59154"
+       height="15.929102"
+       id="rect1" />
+    <marker
+       style="overflow:visible"
+       id="marker82"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path82" />
+    </marker>
+  </defs>
+  <path
+     d="m 134.5,76.500001 q 0,0 51.76,0"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path1"
+     style="marker-end:url(#marker82)" />
+  <path
+     d="M 208.5,91.500001 Q 208.51,128.5 114.01,128.5 19.5,128.5 19.5,95.740001"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path3"
+     style="marker-end:url(#marker82)" />
+  <path
+     d="m 188.5,58.500001 q 0,0 -146.76,0"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path5"
+     style="marker-end:url(#marker82)" />
+  <g
+     id="g8"
+     transform="translate(-0.5,-6.5)">
+    <rect
+       x="189"
+       y="58"
+       width="40"
+       height="40"
+       rx="6"
+       ry="6"
+       fill="#000000"
+       stroke="none"
+       pointer-events="all"
+       id="rect7" />
+  </g>
+  <g
+     id="g10"
+     transform="translate(-0.5,-6.5)">
+    <g
+       id="g9">
+      <switch
+         id="switch8">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="101%"
+           height="101%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 78px; margin-left: 190px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFFFFF; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFFFFF, #121212); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">MT</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="209"
+           y="82"
+           fill="#ffffff"
+           font-family="'Lucida Console'"
+           font-size="12px"
+           text-anchor="middle"
+           id="text8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif">MT</text>
+      </switch>
+    </g>
+  </g>
+  <path
+     d="m 39.5,76.510001 q 0,0 28.76,-0.01"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path11"
+     style="marker-end:url(#marker82)" />
+  <path
+     d="m 110.5,28.500001 q 0.01,10 -40.49,10 -40.51,0 -40.51,12.76"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path13"
+     style="marker-end:url(#ArrowWideRounded)" />
+  <path
+     d="m 110.5,28.500001 q 0.01,10 44.01,10 44,0 43.99,10.76"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path15"
+     style="marker-end:url(#marker82)" />
+  <g
+     id="g18"
+     transform="translate(-0.5,-6.5)">
+    <path
+       d="M 66,35 79,15 h 77 l -13,20 z"
+       fill="#d5e8d4"
+       stroke="none"
+       pointer-events="all"
+       id="path17" />
+  </g>
+  <g
+     id="g20"
+     transform="translate(-0.5,-6.5)">
+    <g
+       id="g19">
+      <switch
+         id="switch18">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="101%"
+           height="101%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 25px; margin-left: 67px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: &quot;Lucida Console&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">seed input</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="111"
+           y="29"
+           fill="light-dark(#000000, #ffffff)"
+           font-family="'Lucida Console'"
+           font-size="12px"
+           text-anchor="middle"
+           id="text18"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif">seed input</text>
+      </switch>
+    </g>
+  </g>
+  <g
+     id="g22"
+     transform="translate(-0.5,-6.5)">
+    <path
+       d="M 66,93 76,73 h 84 l -10,20 z"
+       fill="#f8da87"
+       stroke="none"
+       pointer-events="all"
+       id="path21"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     id="g24"
+     transform="translate(1.5,-6.5)">
+    <g
+       id="g23">
+      <switch
+         id="switch22">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="101%"
+           height="101%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 83px; margin-left: 67px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: &quot;Lucida Console&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">harder input</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="111"
+           y="87"
+           fill="light-dark(#000000, #ffffff)"
+           font-family="'Lucida Console'"
+           font-size="12px"
+           text-anchor="middle"
+           id="text22"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif">harder input</text>
+      </switch>
+    </g>
+  </g>
+  <g
+     id="g82"
+     transform="translate(-0.5,-2.4999999)">
+    <g
+       id="g26"
+       transform="translate(-12,-12)">
+      <circle
+         cx="108.5"
+         cy="138.5"
+         fill="#b5739d"
+         stroke="none"
+         pointer-events="all"
+         id="ellipse25"
+         r="7.5" />
+    </g>
+    <g
+       id="g28"
+       transform="translate(-12,-12)">
+      <g
+         id="g27">
+        <switch
+           id="switch26">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="101%"
+             height="101%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 13px; height: 1px; padding-top: 139px; margin-left: 102px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFFFFF; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 9px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFFFFF, #121212); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">4</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="109"
+             y="141"
+             fill="#ffffff"
+             font-family="'Lucida Console'"
+             font-size="9px"
+             text-anchor="middle"
+             id="text26"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif'">4</text>
+        </switch>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g30"
+     transform="translate(-0.5,-6.5)">
+    <circle
+       cx="80.5"
+       cy="13.5"
+       fill="#b5739d"
+       stroke="none"
+       pointer-events="all"
+       id="ellipse29"
+       r="7.5" />
+  </g>
+  <g
+     id="g32"
+     transform="translate(-0.5,-6.5)">
+    <g
+       id="g31">
+      <switch
+         id="switch30">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="101%"
+           height="101%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 13px; height: 1px; padding-top: 14px; margin-left: 74px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFFFFF; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 9px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFFFFF, #121212); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                <xhtml:span>0</xhtml:span>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="81"
+           y="16"
+           fill="#ffffff"
+           font-family="'Lucida Console'"
+           font-size="9px"
+           text-anchor="middle"
+           id="text30"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif'">0</text>
+      </switch>
+    </g>
+  </g>
+  <g
+     id="g34"
+     transform="translate(-0.5,-6.5)">
+    <circle
+       cx="191"
+       cy="100.5"
+       fill="#b5739d"
+       stroke="none"
+       pointer-events="all"
+       id="ellipse33"
+       r="7.5" />
+  </g>
+  <g
+     id="g36"
+     transform="translate(-0.5,-6.5)">
+    <g
+       id="g35">
+      <switch
+         id="switch34">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="101%"
+           height="101%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 13px; height: 1px; padding-top: 101px; margin-left: 185px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFFFFF; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 9px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFFFFF, #121212); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">3</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="191"
+           y="103"
+           fill="#ffffff"
+           font-family="'Lucida Console'"
+           font-size="9px"
+           text-anchor="middle"
+           id="text34"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif'">3</text>
+      </switch>
+    </g>
+  </g>
+  <g
+     id="g38"
+     style="fill:#b5739d;fill-opacity:1"
+     transform="translate(-0.5,-6.5)">
+    <circle
+       cx="225.5"
+       cy="57.5"
+       fill="#b5739d"
+       stroke="none"
+       pointer-events="all"
+       id="ellipse37"
+       r="7.5"
+       style="fill:#b5739d;fill-opacity:1" />
+  </g>
+  <g
+     id="g40"
+     transform="translate(-0.5,-6.5)">
+    <g
+       id="g39">
+      <switch
+         id="switch38">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="101%"
+           height="101%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 13px; height: 1px; padding-top: 58px; margin-left: 219px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFFFFF; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 9px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFFFFF, #121212); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                <xhtml:span>1</xhtml:span>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="226"
+           y="60"
+           fill="#ffffff"
+           font-family="'Lucida Console'"
+           font-size="9px"
+           text-anchor="middle"
+           id="text38"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif'">1</text>
+      </switch>
+    </g>
+  </g>
+  <g
+     id="g44"
+     transform="translate(-8.5,-15.351324)">
+    <g
+       id="g43">
+      <switch
+         id="switch42">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="101%"
+           height="101%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 139px; margin-left: 109px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; color: #B5739D; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 9px; font-family: &quot;Lucida Console&quot;; color: light-dark(#B5739D, #a66d91); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">repeat</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="128"
+           y="141"
+           fill="#b5739d"
+           font-family="'Lucida Console'"
+           font-size="9px"
+           text-anchor="middle"
+           id="text42"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif">repeat</text>
+      </switch>
+    </g>
+  </g>
+  <g
+     id="g48"
+     transform="translate(-6.5,-6.5)">
+    <g
+       id="g47">
+      <switch
+         id="switch46">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="101%"
+           height="101%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 101px; margin-left: 147px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; color: #B5739D; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 9px; font-family: &quot;Lucida Console&quot;; color: light-dark(#B5739D, #a66d91); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">translate</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="166"
+           y="103"
+           fill="#b5739d"
+           font-family="'Lucida Console'"
+           font-size="9px"
+           text-anchor="middle"
+           id="text46"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif">translate</text>
+      </switch>
+    </g>
+  </g>
+  <g
+     id="g52"
+     transform="translate(-6.5,-6.5)">
+    <g
+       id="g51">
+      <switch
+         id="switch50">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="101%"
+           height="101%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 45px; margin-left: 200px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; color: #B5739D; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 9px; font-family: &quot;Lucida Console&quot;; color: light-dark(#B5739D, #a66d91); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">translate</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="219"
+           y="48"
+           fill="#b5739d"
+           font-family="'Lucida Console'"
+           font-size="9px"
+           text-anchor="middle"
+           id="text50"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif">translate</text>
+      </switch>
+    </g>
+  </g>
+  <g
+     id="g58"
+     transform="translate(-0.5,-6.2787625)" />
+  <g
+     id="g59"
+     transform="translate(-0.5,-6.5)">
+    <rect
+       x="0"
+       y="60"
+       width="40"
+       height="40"
+       rx="6"
+       ry="6"
+       fill="#000000"
+       stroke="none"
+       pointer-events="all"
+       id="rect58" />
+  </g>
+  <g
+     id="g61"
+     transform="translate(-0.5,-12.499999)">
+    <g
+       id="g60">
+      <switch
+         id="switch59">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="101%"
+           height="101%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 80px; margin-left: 1px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFFFFF; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 12px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFFFFF, #121212); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">LLM<xhtml:div>
+  <xhtml:br />
+</xhtml:div>
+</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="20"
+           y="84"
+           fill="#ffffff"
+           font-family="'Lucida Console'"
+           font-size="12px"
+           text-anchor="middle"
+           id="text59"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif'"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif"
+             id="tspan1">LLM</tspan></text>
+      </switch>
+    </g>
+  </g>
+  <g
+     data-cell-id="UXEAjCEv4ZAQahPGCZGy-40"
+     id="g66"
+     transform="translate(-0.5,-10.499999)">
+    <g
+       id="g63">
+      <rect
+         x="1"
+         y="78"
+         width="38"
+         height="22"
+         fill="none"
+         stroke="none"
+         pointer-events="all"
+         id="rect62" />
+    </g>
+    <g
+       id="g65">
+      <g
+         id="g64">
+        <switch
+           id="switch63">
+          <foreignObject
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="101%"
+             height="101%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 36px; height: 1px; padding-top: 89px; margin-left: 2px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; color: #B5739D; ">
+                <xhtml:div
+                   style="display: inline-block; font-size: 9px; font-family: &quot;Lucida Console&quot;; color: light-dark(#B5739D, #a66d91); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                  <xhtml:div
+                     style="line-height: 90%;">
+                    <xhtml:font
+                       style="color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));">with<xhtml:br />
+
+
+
+history</xhtml:font>
+                  </xhtml:div>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <text
+             x="20"
+             y="92"
+             fill="#b5739d"
+             font-family="'Lucida Console'"
+             font-size="9px"
+             text-anchor="middle"
+             id="text63"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.8;font-family:Serif;-inkscape-font-specification:Serif"><tspan
+               sodipodi:role="line"
+               id="tspan78"
+               x="20"
+               y="92"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.8;font-family:serif;-inkscape-font-specification:serif;fill:#ffffff;fill-opacity:1">with</tspan><tspan
+               sodipodi:role="line"
+               id="tspan79"
+               x="20"
+               y="99.199997"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.8;font-family:serif;-inkscape-font-specification:serif;fill:#ffffff;fill-opacity:1">history</tspan></text>
+        </switch>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g68"
+     transform="translate(-0.5,-6.5)">
+    <circle
+       cx="41.5"
+       cy="100.5"
+       fill="#b5739d"
+       stroke="none"
+       pointer-events="all"
+       id="ellipse67"
+       r="7.5" />
+  </g>
+  <g
+     id="g70"
+     transform="translate(-0.5,-6.5)">
+    <g
+       id="g69">
+      <switch
+         id="switch68">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="101%"
+           height="101%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 13px; height: 1px; padding-top: 101px; margin-left: 35px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFFFFF; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 9px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFFFFF, #121212); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">2</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="42"
+           y="103"
+           fill="#ffffff"
+           font-family="'Lucida Console'"
+           font-size="9px"
+           text-anchor="middle"
+           id="text68"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif'">2</text>
+      </switch>
+    </g>
+  </g>
+  <g
+     id="g74"
+     transform="translate(-0.5,-6.5)">
+    <g
+       id="g73">
+      <switch
+         id="switch72">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="101%"
+           height="101%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 60px; height: 1px; padding-top: 101px; margin-left: 52px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: left; color: #B5739D; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 9px; font-family: &quot;Lucida Console&quot;; color: light-dark(#B5739D, #a66d91); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                <xhtml:div
+                   style="line-height: 90%;">modify text</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="52"
+           y="104"
+           fill="#b5739d"
+           font-family="'Lucida Console'"
+           font-size="9px"
+           id="text72"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif">modify text</text>
+      </switch>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     transform="translate(-39.216567,12.995489)"
+     id="text1"
+     style="font-size:9px;line-height:normal;font-family:Serif;-inkscape-font-specification:Serif;text-align:end;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);fill:#b5739d;-inkscape-stroke:none"><tspan
+       x="129.12793"
+       y="-6.4179688"
+       id="tspan3">start with easy text</tspan></text>
+</svg>
