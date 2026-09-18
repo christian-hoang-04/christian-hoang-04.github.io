@@ -225,7 +225,7 @@ foreach ($page in $pages) {
     $newsBlock = @'
 <h4 style='margin-top: 60px;'>News</h4>
 <ul>
-    <li>2026: We are building the <a href="https://last-translation-benchmark.vilda.net/">Last Translation Benchmark</a> and looking for contributors! <a href="https://last-translation-benchmark.vilda.net/">Contribute examples or submit models</a> and become a contributor with coauthorship.</li>
+    <li>2026: We are building the <a href="https://last-translation-benchmark.vilda.net/">Last Translation Benchmark</a> and looking for contributors! <a href="https://last-translation-benchmark.vilda.net/">Contribute samples</a> and become a contributor with coauthorship.</li>
     <li>2026: We are developing <a href="https://arxiv.org/pdf/2609.12544">Meddies-PII</a>, a multilingual framework for clinical personally identifiable information extraction.</li>
     <li>2026: We are studying how <a href="https://arxiv.org/pdf/2609.03322">perturbations propagate through large language models</a> across behavior, representations, and attention.</li>
     <li>2025: <a href="https://aclanthology.org/2025.emnlp-main.589.pdf">SilVar</a> is an EMNLP 2025 paper on speech-driven multimodal reasoning for visual question answering and object localization.</li>
