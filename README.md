@@ -1,23 +1,34 @@
 # Christian Hoang
 
-Personal static website for Christian Hoang.
+Personal website for Christian Hoang, a final-year undergraduate at FPT University, Viet Nam, working on Artificial Intelligence.
 
-The published pages are:
+## Website
 
-- `index.html`
-- `about.html`
-- `research.html`
+Live site: <https://christian-hoang-04.github.io/>
 
-To refresh the mirror from the source site, run:
+The site currently includes:
 
-```powershell
-powershell -ExecutionPolicy Bypass -File .\mirror-site.ps1
-```
+- About: profile, news, and contact links
+- Research: current projects and publications
 
-To run it locally:
+Teaching, Service, Experience, Awards, and Typesetting are not currently published.
+
+## Run locally
+
+Start a local static server from the project root:
 
 ```powershell
 python -m http.server 8123
 ```
 
-Then open <http://localhost:8123/>. Teaching, Service, and Typesetting are not currently published.
+Then open <http://localhost:8123/>.
+
+## Refresh the local mirror
+
+To regenerate the customized static pages from the source mirror, run:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\mirror-site.ps1
+```
+
+The generated site is published through GitHub Pages from the `main` branch.
