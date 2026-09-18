@@ -241,6 +241,7 @@ foreach ($page in $pages) {
     <li><a href="https://github.com/christian-hoang-04">GitHub</a></li>
     <li><a href="https://scholar.google.com/citations?user=mfm8-PkAAAAJ&hl=en">Google Scholar</a></li>
 </ul>
+<p>Thanks to <a href="https://vilda.net/?page=about">Vil&eacute;m Zouhar</a> for inspiring the format of this website.</p>
 '@
     $html = [regex]::Replace($html, '<h4>Links</h4>\s*<ul>[\s\S]*?</ul>', $contactBlock)
   }
