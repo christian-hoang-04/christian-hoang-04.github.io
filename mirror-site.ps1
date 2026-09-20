@@ -208,7 +208,7 @@ foreach ($page in $pages) {
   $html = $html -replace '<title>Vil.m Zouhar</title>', "<title>$displayName</title>"
   $html = $html -replace 'alt=''photo of Vil.m''', "alt='avatar of $displayName'"
   $html = $html -replace 'Vil.m Zouhar\s*</h1>', "$displayName`n        </h1>"
-  $html = $html.Replace("        </h1>", "        </h1>`n        <div style='font-style: italic; margin-top: 5px; margin-bottom: 10px;'>`n          “My purpose is to contribute as much as I can to humanity.”`n        </div>")
+  $html = $html.Replace("        </h1>", "        </h1>`n        <div style='font-style: italic; margin-top: 5px; margin-bottom: 10px;'>`n          “My purpose is to contribute as much as I can, to humanity.”`n        </div>")
   $html = $html -replace "Hi, I'm Vil.m \(colloquially Vilda\),", "Hi, I'm $displayName,"
   $html = $html.Replace('PhD at ETH Zurich<br>', 'BSc at FPT Ho Chi Minh<br>')
   $html = $html.Replace('Natural Language Processing<br>', 'Artificial Inteligence<br>')
