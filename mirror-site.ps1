@@ -208,6 +208,7 @@ foreach ($page in $pages) {
   $html = $html -replace '<title>Vil.m Zouhar</title>', "<title>$displayName</title>"
   $html = $html -replace 'alt=''photo of Vil.m''', "alt='avatar of $displayName'"
   $html = $html -replace 'Vil.m Zouhar\s*</h1>', "$displayName`n        </h1>"
+  $html = $html.Replace("        </h1>", "        </h1>`n        <div style='font-style: italic; margin-top: 5px; margin-bottom: 10px;'>`n          “My purpose is to contribute as much as I can to humanity.”`n        </div>")
   $html = $html -replace "Hi, I'm Vil.m \(colloquially Vilda\),", "Hi, I'm $displayName,"
   $html = $html.Replace('PhD at ETH Zurich<br>', 'BSc at FPT Ho Chi Minh<br>')
   $html = $html.Replace('Natural Language Processing<br>', 'Artificial Inteligence<br>')
@@ -217,7 +218,7 @@ foreach ($page in $pages) {
   $html = $html.Replace('https://scholar.google.com/citations?user=2EUDwtkAAAAJ', 'https://scholar.google.com/citations?user=mfm8-PkAAAAJ&hl=en')
   $html = $html -replace 'final-year PhD at ETH [^\.]+, Switzerland\.', 'final-year undergraduate at FPT University, Viet Nam.'
   $html = $html.Replace('I do research on natural language processing.', 'I do research on Artificial Intelligence.')
-  $html = $html.Replace("Let me know if you're interested in any of these topics!", "Let me know if you're interested in any topic in the field!`n<p style='margin-top: 20px; font-style: italic;'>“My purpose is to contribute as much as I can to humanity.”</p>")
+  $html = $html.Replace("Let me know if you're interested in any of these topics!", "Let me know if you're interested in any topic in the field!")
   $html = [regex]::Replace($html, '<ul style="margin-bottom: 5px;">\s*<li>Evaluation \(human annotations, automated metrics, methods\)</li>\s*<li>Multilingual NLP</li>\s*<li>NLP-oriented human-computer interaction \(confidence, quality\)</li>\s*</ul>', '')
   $html = $html -replace '\?page=(about|research)', '$1.html'
   $html = [regex]::Replace($html, '\s*<a href="(?:\?page=|)(?:teaching|service|typesetting)(?:\.html)?">(?:teaching|service|typesetting)</a>', '')
