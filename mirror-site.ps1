@@ -208,7 +208,8 @@ foreach ($page in $pages) {
   $html = $html -replace '<title>Vil.m Zouhar</title>', "<title>$displayName</title>"
   $html = $html -replace 'alt=''photo of Vil.m''', "alt='avatar of $displayName'"
   $html = $html -replace 'Vil.m Zouhar\s*</h1>', "$displayName`n        </h1>"
-  $html = $html.Replace("        </h1>", "        </h1>`n        <div style='font-style: italic; margin-top: 5px; margin-bottom: 10px;'>`n          “My purpose is to contribute as much as I can, to humanity.”`n        </div>")
+  $html = $html.Replace("        </h1>", "        </h1>`n        <div style='font-style: italic; margin-top: 15px; margin-bottom: 15px;'>`n          “My purpose is to contribute as much as I can, to humanity.”`n        </div>")
+  $html = [regex]::Replace($html, '\s*<a href="mailto:christianhoang04@gmail.com"[^>]*>christianhoang04@gmail.com</a>&nbsp;\s*<a href="https://scholar\.google\.com/citations\?user=mfm8-PkAAAAJ&hl=en"[^>]*>Google Scholar</a>\s*<br>', '')
   $html = $html -replace "Hi, I'm Vil.m \(colloquially Vilda\),", "Hi, I'm $displayName,"
   $html = $html.Replace('PhD at ETH Zurich<br>', 'BSc at FPT Ho Chi Minh<br>')
   $html = $html.Replace('Natural Language Processing<br>', 'Artificial Inteligence<br>')
@@ -238,6 +239,7 @@ foreach ($page in $pages) {
     $contactBlock = @'
 <h4>Contact</h4>
 <ul>
+    <li><a href="mailto:christianhoang04@gmail.com">Email: christianhoang04@gmail.com</a></li>
     <li><a href="https://huggingface.co/christian-hoang-04">Hugging Face</a></li>
     <li><a href="https://github.com/christian-hoang-04">GitHub</a></li>
     <li><a href="https://scholar.google.com/citations?user=mfm8-PkAAAAJ&hl=en">Google Scholar</a></li>
