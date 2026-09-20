@@ -217,7 +217,7 @@ foreach ($page in $pages) {
   $html = $html.Replace('https://scholar.google.com/citations?user=2EUDwtkAAAAJ', 'https://scholar.google.com/citations?user=mfm8-PkAAAAJ&hl=en')
   $html = $html -replace 'final-year PhD at ETH [^\.]+, Switzerland\.', 'final-year undergraduate at FPT University, Viet Nam.'
   $html = $html.Replace('I do research on natural language processing.', 'I do research on Artificial Intelligence.')
-  $html = $html.Replace("Let me know if you're interested in any of these topics!", "Let me know if you're interested in any topic in the field!")
+  $html = $html.Replace("Let me know if you're interested in any of these topics!", "Let me know if you're interested in any topic in the field!`n<p style='margin-top: 20px; font-style: italic;'>“My purpose is to contribute as much as I can to humanity.”</p>")
   $html = [regex]::Replace($html, '<ul style="margin-bottom: 5px;">\s*<li>Evaluation \(human annotations, automated metrics, methods\)</li>\s*<li>Multilingual NLP</li>\s*<li>NLP-oriented human-computer interaction \(confidence, quality\)</li>\s*</ul>', '')
   $html = $html -replace '\?page=(about|research)', '$1.html'
   $html = [regex]::Replace($html, '\s*<a href="(?:\?page=|)(?:teaching|service|typesetting)(?:\.html)?">(?:teaching|service|typesetting)</a>', '')
