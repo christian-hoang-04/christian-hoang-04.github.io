@@ -244,6 +244,7 @@ foreach ($page in $pages) {
     $newsBlock = @'
 <h4 style='margin-top: 60px;'>News</h4>
 <ul>
+    <li>09-2026: Our paper <a href="https://openreview.net/pdf?id=sjdqmzc5B5">MultiCulturalRiddle</a> was accepted to EMNLP 2026 MRL. It introduces a multicultural benchmark of riddles spanning 61 cultures and 51 languages.</li>
     <li>09-2026: We are building the <a href="https://last-translation-benchmark.vilda.net/">Last Translation Benchmark</a> and looking for contributors! <a href="https://last-translation-benchmark.vilda.net/">Contribute samples</a> and become a contributor with coauthorship.</li>
     <li>09-2026: We are developing <a href="https://arxiv.org/pdf/2609.12544">Meddies-PII</a>, a multilingual framework for clinical personally identifiable information extraction.</li>
     <li>09-2026: We are studying how <a href="https://arxiv.org/pdf/2609.03322">perturbations propagate through large language models</a> across behavior, representations, and attention.</li>
