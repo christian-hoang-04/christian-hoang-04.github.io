@@ -96,6 +96,14 @@ $researchContent = @'
   <div style='margin-top: 5px;'><b>Abstract:</b> Clinical de-identification depends on accurately identifying personally identifiable information (PII). However, manually annotated datasets are costly to build, and existing synthetic alternatives often provide limited generation details or use relatively simple synthesis strategies. We introduce Meddies-PII-Dataset, which contains one million synthetic clinical documents across seventeen languages and nine PII labels. Attribute-conditioned prompts generate the documents, and thirteen deterministic gates check their structural and annotation validity. To assess the dataset’s utility, we train Meddies-PII-Model, a BIOES token classifier. We compare it with existing PII extraction systems using exact-match entity-level F1. Meddies-PII-Model achieves the highest score among the evaluated systems on all reported benchmarks, with a mean F1 of 0.827 across fifteen external benchmarks compared with 0.658 for the strongest baseline. Upon acceptance, we will publicly release the dataset, benchmark, model, generation framework, and evaluation code to support research on multilingual clinical de-identification.</div>
 </div>
 
+<div class='paper_details paper_details_withimg'>
+  <div class='paper_title'>MultiCulturalRiddle: A Multicultural Benchmark of Riddles</div>
+  <span class='authors_span'>EMNLP 2026 MRL;&nbsp;&nbsp;Tianyi Hu, Henry Gagnier, Vinod Anbalagan, My Chiffon Nguyen, Pouya Sadeghi, Farah Abdou, Abdellah EL MEKKI, Ahanaf Aziz, Ahmad mufli ramadhan, Akhil Eppa, Alex Gimei, Anastasiia Nikitina, Ankita Maity, Arya Hariharan, Arya Suneesh, Aylin Naebzadeh, Ayush Sunil Munot, Bryan Chen, Christian Hoang, Di Mo, Diana Kozachek, Dina Pisarevskaya, Diogo M. Serrano-Miranda, Divas Poudel, Hanna Yukhymenko, Jebish Purbey, Jonathan Swindell, Kaiser Sun, Lakshmi Tejaswi Sunkara, Luis Fernando SOLIS NAVARRO, Madeline Smith, Md Rabius Sany Apu, Micol Altomare, Oluwaseun A. Ajayi, Ralitza Nikolova Rizova, Rawan Mohammed Elframawy, Ruchira Dhar, Shayan Amir, Venkata Manaswitha Sunkara, Vivek Silimkhan, Yusser Al Ghussin, Zena Al-Khalili, Abderrahmane Issam, Adnan El Assadi, Aleix Sant, Angana Borah, Bin Hu, Cedric Lothritz, Chen Cecilia Liu, Danka Jokić, Debela Desalegn Yadeta, Dikshya Poudel, Dominik Krzemiński, Eduardo Sánchez, Emile Timothy Anand, Emily Z. Su, Esther Adenuga, Felipe Bochini, Fengran Mo, Fred Philippy, Gabriel Assis, Haichang Li, Houman Mehrafarin, Ilia Afanasev, Istiak Shihab, Jannatul Nayem, Javier García Gilabert, Jayanth Krishna Chundru, Jinghan Zhang, Joanna Radoła, José Matías Avalos, Juliana Carvalho, Kaiyu Huang, Kaustubh Dhole, Lauren Altomare, Lingbo Wang, Lisa Alazraki, Lucas Resck, Marc Pàmies, Marco De Santis, Mehrnaz Mofakhami, Mike Zhang, Muhammad Ravi Shulthan Habibi, Muhammad Saad Umar, Naman Bhatia, Nancy F. Chen, Nazia Tasnim, Niyati Bafna, Nobin Sarwar, Oksana Volchek, Olena Bugaiova, Ona de Gibert, Patteera Triamamornwooth, Pedro Delgado, Prerana Rane, Rochelle Choenni, Roy Ka-Wei Lee, Rui Yang Tan, Rushikesh Zawar, Saanidhi Gade, Sajag Swami, Santhoshini Pranathi Singaraju, Sara Rajaee, Sayuru Rehan Bopitiya, Shankar Venkitachalam, Souvik Bhattacharyya, Stephy Chen, Van Ngo, Vladislav Poritski, Wafa Aissa, Weihua Zheng, Wesam El-Sayed, Yash Bagla, Yurii Paniv, Zakaria Baannou, Zhengyuan Liu, Marzieh Fadaee, Akhil Arora, Károly Boczka, Julia Kreutzer</span>
+  <div style='margin-top: 5px;'><a href='https://openreview.net/pdf?id=sjdqmzc5B5' class='paper_details_link'>paper</a></div>
+  <img class='project_visual project_visual_multicultural_riddle' src='img/project-multicultural-riddle.png' alt='Map showing languages per country for MultiCulturalRiddle' loading='lazy'>
+  <div style='margin-top: 5px;'><b>Abstract:</b> Capturing how well LLMs can understand and model the diversity of cultures around the globe has increasingly gained importance as LLMs' language coverage has rapidly advanced. However, existing benchmarks are still knowledge- and English-centric with limited coverage and complexity. We propose MultiCulturalRiddle, a benchmark of culturally-grounded riddles, spanning 61 cultures and 51 languages, created in a participatory community effort. These riddles are both hyper-specific to each culture, require factual knowledge, language skills, social knowledge, and strong abductive reasoning skills to solve. We benchmark 24 LLMs with both automatic and human evaluation and release all artifacts publicly.</div>
+</div>
+
 '@
 
 $css = (Invoke-WebRequest -Uri "$baseUrl/src/style.css?v=14" -UseBasicParsing).Content
@@ -147,6 +155,14 @@ $css += @'
   max-height: none;
   margin-bottom: 0;
 }
+
+.paper_details img.project_visual_multicultural_riddle {
+  width: 350px;
+  height: auto;
+  max-width: 350px;
+  max-height: none;
+  margin-bottom: 0;
+}
 '@
 Save-TextFile -Path (Join-Path $root 'src/style.css') -Text $css
 
@@ -184,14 +200,14 @@ while (($cardStart = $researchContent.IndexOf($cardMarker, $searchFrom)) -ge 0) 
   $cardStarts += $cardStart
   $searchFrom = $cardStart + $cardMarker.Length
 }
-if ($cardStarts.Count -eq 4) {
+  if ($cardStarts.Count -eq 5) {
   $publicationHeading = $researchContent.Substring(0, $cardStarts[0])
   $publicationCards = @()
   for ($i = 0; $i -lt $cardStarts.Count; $i++) {
     $cardEnd = if ($i -lt ($cardStarts.Count - 1)) { $cardStarts[$i + 1] } else { $researchContent.Length }
     $publicationCards += $researchContent.Substring($cardStarts[$i], $cardEnd - $cardStarts[$i])
   }
-  $researchContent = $publicationHeading + $publicationCards[3] + $publicationCards[2] + $publicationCards[1] + $publicationCards[0]
+    $researchContent = $publicationHeading + $publicationCards[4] + $publicationCards[3] + $publicationCards[2] + $publicationCards[1] + $publicationCards[0]
 }
 foreach ($page in $pages) {
   $html = (Invoke-WebRequest -Uri "$baseUrl/?page=$page" -UseBasicParsing).Content

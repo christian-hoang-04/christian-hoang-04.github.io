@@ -179,3 +179,11 @@ h4:first-child {
   max-height: none;
   margin-bottom: 0;
 }
+
+.paper_details img.project_visual_multicultural_riddle {
+  width: 350px;
+  height: auto;
+  max-width: 350px;
+  max-height: none;
+  margin-bottom: 0;
+}
