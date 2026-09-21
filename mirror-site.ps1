@@ -157,11 +157,12 @@ $css += @'
 }
 
 .paper_details img.project_visual_multicultural_riddle {
-  width: 350px;
+  width: 300px;
   height: auto;
-  max-width: 350px;
+  max-width: 300px;
   max-height: none;
   margin-bottom: 0;
+  display: block;
 }
 '@
 Save-TextFile -Path (Join-Path $root 'src/style.css') -Text $css
@@ -214,7 +215,7 @@ foreach ($page in $pages) {
 
   $html = [regex]::Replace($html, '<!-- Google tag \(gtag\.js\) -->[\s\S]*?</script>\s*<script>[\s\S]*?</script>', '')
   $html = [regex]::Replace($html, '<link\s+rel=["'']icon["''][^>]*>', "<link rel='icon' type='image/jpeg' href='src/avatar.jpg?v=2'>")
-  $html = $html -replace 'src/style\.css\?v=14', 'src/style.css?v=19'
+  $html = $html -replace 'src/style\.css\?v=14', 'src/style.css?v=20'
   $html = $html -replace 'src/portrait\.jpg\?v=1', 'src/portrait.jpg'
   $html = $html.Replace("src='src/portrait.jpg'", "src='src/avatar.jpg'")
   $html = $html.Replace("style='width: 201px; min-height: 268px; border: 2px solid black;'", "style='width: 201px; height: 201px; object-fit: cover; border: 2px solid black;'")
