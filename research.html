@@ -51,6 +51,7 @@
     <div id='content' style='margin-top: 20px;'>
 <h4>Publications</h4>
 
+<div class='paginated-list' data-pagination='publications' data-items-per-page='5'>
 <div class='paper_details paper_details_withimg'>
   <div class='paper_title'>MultiCulturalRiddle: A Multicultural Benchmark of Riddles</div>
   <span class='authors_span'>EMNLP 2026 MRL;&nbsp;&nbsp;Tianyi Hu, Henry Gagnier, Vinod Anbalagan, including Christian Hoang</span>
@@ -83,6 +84,14 @@
 </div>
 
 <div class='paper_details paper_details_withimg'>
+  <div class='paper_title'>First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers</div>
+  <span class='authors_span'>Ongoing;&nbsp;&nbsp;Arjun Pillai, Christian Hoang, Anjelo Jann Laroza</span>
+  <div style='margin-top: 5px;'><a href='https://arxiv.org/pdf/2606.22361' class='paper_details_link' target="_blank" rel="noopener noreferrer">paper</a></div>
+  <img src='img/first-token-broadcasters-table1.png' alt='Table 1: Top five GPT-2 heads by switch rate with 95% bootstrap confidence intervals' loading='lazy'>
+  <div style='margin-top: 5px;'>Why do multilingual language models sometimes generate in the wrong language, and why is this so hard to fix? We introduce Language Identity Head Ablation (LIHA), a causal intervention that zeros each attention head individually and measures the resulting language switch rate across a parallel dataset of 2,700 prompt-language pairs spanning seven languages. Applied to GPT-2, LIHA identifies a small set of first-token broadcaster heads—led by L6H1 (switch rate 0.32, 3.23σ above the population mean)—that attend persistently to the first prompt token, propagating its language signal throughout generation. Compensatory redistribution when heads are ablated is statistically significant (p &lt; 10<sup>−5</sup>) and follows a directional, hierarchical pattern: compensation always recruits heads in layers above the ablated head, suggesting a feedforward cascade rather than global diffusion. To probe how training regime shapes these circuits, we apply LIHA to a controlled pair—Qwen2.5-1.5B-Base and Qwen2.5-1.5B-Instruct—identical in architecture and size, differing only in training. The base model is nearly flat (max SR=0.016, 200/336 heads at SR=0.0); the instruct model concentrates causal influence sharply at layer 0, led by L0H5 (SR=0.224, 8.93σ above mean), with all other layers near zero. This controlled comparison provides direct causal evidence that instruction tuning reorganizes language identity circuits toward early-layer localization. Extended experiments with Chinese and Russian confirm that first-token broadcasting is script-specific in GPT-2, with non-Latin languages handled at layer 0—the same locus as the instruction-tuned model. Code and data will be released upon publication.</div>
+</div>
+
+<div class='paper_details paper_details_withimg'>
   <div class='paper_title'>SilVar: Speech-Driven Multimodal Model for Reasoning Visual Question Answering and Object Localization</div>
   <span class='authors_span'>EMNLP 2025;&nbsp;&nbsp;Tan-Hanh Pham, Christian Hoang, Phu-Vinh Nguyen, Chris Ngo, Truong Son Hy</span>
   <div style='margin-top: 5px;'><a href='https://aclanthology.org/2025.emnlp-main.589.pdf' class='paper_details_link' target="_blank" rel="noopener noreferrer">paper</a><a href='https://github.com/Hanhpt23/SilVar' class='paper_details_link' target="_blank" rel="noopener noreferrer">code</a></div>
@@ -91,6 +100,7 @@
 </div>
 
 
+</div>
     </div>
 </body>
 

@@ -119,6 +119,34 @@ a:hover {
   width: 100%;
 }
 
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  margin: 10px 0 20px;
+}
+
+.pagination button {
+  min-width: 32px;
+  padding: 4px 8px;
+  border: 1px solid #ba727f;
+  background-color: #e6d0d2;
+  color: black;
+  cursor: pointer;
+  font: inherit;
+  font-size: 11pt;
+}
+
+.pagination button:hover {
+  background-color: #e0a6aa;
+}
+
+.pagination button[aria-current='page'] {
+  background-color: #ba727f;
+  color: white;
+  cursor: default;
+}
+
 ul,
 ol {
   margin-top: 5px;
