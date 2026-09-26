@@ -69,7 +69,7 @@
       function scrollToPage(page) {
         const target = page === 1 ? pagination : list;
         target.scrollIntoView({
-          behavior: 'smooth',
+          behavior: 'auto',
           block: page === 1 ? 'end' : 'start'
         });
       }
