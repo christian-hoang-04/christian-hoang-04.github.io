@@ -66,11 +66,36 @@
         });
       }
 
-      function scrollToPage(page) {
-        const target = page === 1 ? pagination : list;
-        target.scrollIntoView({
-          behavior: 'auto',
-          block: page === 1 ? 'end' : 'start'
+      function scrollToPage() {
+        const isNews = list.dataset.pagination === 'news';
+        const newsHeading = list.previousElementSibling;
+        const target = isNews && newsHeading ? newsHeading : pagination;
+
+        if (isNews && newsHeading) {
+          const targetTop = newsHeading.getBoundingClientRect().top + window.scrollY;
+          const topPadding = parseFloat(window.getComputedStyle(document.body).paddingTop) || 0;
+          const minimumDocumentHeight = targetTop + window.innerHeight + topPadding;
+          const currentDocumentHeight = document.documentElement.scrollHeight;
+
+          if (currentDocumentHeight < minimumDocumentHeight) {
+            document.body.style.paddingBottom = `${minimumDocumentHeight - currentDocumentHeight}px`;
+          }
+
+          window.scrollTo({ top: targetTop, behavior: 'auto' });
+          return;
+        }
+
+        const targetBottom = target.getBoundingClientRect().bottom + window.scrollY;
+        const currentDocumentHeight = document.documentElement.scrollHeight;
+
+        if (currentDocumentHeight < targetBottom) {
+          const bottomPadding = parseFloat(window.getComputedStyle(document.body).paddingBottom) || 0;
+          document.body.style.paddingBottom = `${bottomPadding + targetBottom - currentDocumentHeight}px`;
+        }
+
+        window.scrollTo({
+          top: Math.max(0, targetBottom - window.innerHeight),
+          behavior: 'auto'
         });
       }
 
@@ -81,7 +106,8 @@
         button.setAttribute('aria-label', `${sectionName}, page ${page}`);
         button.addEventListener('click', function () {
           showPage(page);
-          scrollToPage(page);
+          scrollToPage();
+          button.blur();
         });
         buttons.push(button);
         pagination.appendChild(button);
