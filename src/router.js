@@ -66,6 +66,27 @@
         });
       }
 
+      function reservePublicationHeight() {
+        if (list.dataset.pagination === 'news') {
+          return null;
+        }
+
+        const originalMinHeight = document.documentElement.style.minHeight;
+        document.documentElement.style.minHeight = `${document.documentElement.scrollHeight}px`;
+        return originalMinHeight;
+      }
+
+      function restorePublicationHeight(originalMinHeight) {
+        if (originalMinHeight === null) {
+          return;
+        }
+
+        window.setTimeout(function () {
+          document.documentElement.style.minHeight = originalMinHeight;
+          scrollToPage();
+        }, 150);
+      }
+
       function scrollToPage() {
         const isNews = list.dataset.pagination === 'news';
         const newsHeading = list.previousElementSibling;
@@ -111,9 +132,11 @@
         button.textContent = String(page);
         button.setAttribute('aria-label', `${sectionName}, page ${page}`);
         button.addEventListener('click', function () {
+          const originalMinHeight = reservePublicationHeight();
           showPage(page);
           scrollToPageAfterLayout();
           button.blur();
+          restorePublicationHeight(originalMinHeight);
         });
         buttons.push(button);
         pagination.appendChild(button);
