@@ -167,6 +167,14 @@ h4:first-child {
   object-fit: cover;
 }
 
+.paper_details img.project_visual_ftb_graph {
+  width: 450px;
+  height: auto;
+  max-width: 450px;
+  max-height: none;
+  margin-bottom: 0;
+}
+
 .project_visual_silvar {
   width: 350px;
   height: auto;

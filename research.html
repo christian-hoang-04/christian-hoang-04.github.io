@@ -13,7 +13,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Merriweather&display=swap"
     rel="stylesheet">
 
-  <link rel='stylesheet' type='text/css' href='src/style.css?v=20'>
+  <link rel='stylesheet' type='text/css' href='src/style.css?v=21'>
   <link rel='icon' type='image/jpeg' href='src/avatar.jpg?v=2'>
   <title>Christian Hoang</title>
   <meta name="viewport" content="width=840px">
@@ -52,6 +52,14 @@
 <h4>Publications</h4>
 
 <div class='paginated-list' data-pagination='publications' data-items-per-page='5'>
+<div class='paper_details paper_details_withimg'>
+  <div class='paper_title'>FTB Graph: Determining and Validating First-token Broadcasters and Language-Identity Head Circuits in Multilingual Language Models</div>
+  <span class='authors_span'>Ongoing;&nbsp;&nbsp;Arjun Pillai, Christian Hoang, Anjelo Laroza</span>
+  <div style='margin-top: 5px;'><a href='https://arxiv.org/pdf/2609.30954' class='paper_details_link' target="_blank" rel="noopener noreferrer">paper</a></div>
+  <img class='project_visual project_visual_ftb_graph' src='img/ftb-graph.png' alt='FTB Graph pipeline for discovering and validating first-token broadcasting circuits' loading='lazy'>
+  <div style='margin-top: 5px;'>Large language models must choose a response language early, but the causal circuitry behind this decision is poorly understood. We map first-token language-broadcasting circuits across six GPT-2, BLOOM, Pythia, and Qwen2.5 models using Edge Attribution Patching followed by exact activation-patching verification. The resulting graphs reveal deep-layer broadcasting hubs, greater topological sparsity as Pythia scales from 1B to 2.8B, and 84.7% structural overlap between Qwen base and instruct models, suggesting that routing circuits are largely established during pre-training. Weak agreement between attribution scores and exact causal effects further shows why exact patching is essential for reliable circuit discovery.</div>
+</div>
+
 <div class='paper_details paper_details_withimg'>
   <div class='paper_title'>CulturalRiddles: A Multicultural Benchmark of Riddles</div>
   <span class='authors_span'>EMNLP 2026 MRL;&nbsp;&nbsp;Tianyi Hu, Henry Gagnier, Vinod Anbalagan, including Christian Hoang</span>
