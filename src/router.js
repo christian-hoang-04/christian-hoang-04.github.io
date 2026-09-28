@@ -99,6 +99,12 @@
         });
       }
 
+      function scrollToPageAfterLayout() {
+        scrollToPage();
+        window.requestAnimationFrame(scrollToPage);
+        window.setTimeout(scrollToPage, 100);
+      }
+
       for (let page = 1; page <= pageCount; page += 1) {
         const button = document.createElement('button');
         button.type = 'button';
@@ -106,7 +112,7 @@
         button.setAttribute('aria-label', `${sectionName}, page ${page}`);
         button.addEventListener('click', function () {
           showPage(page);
-          scrollToPage();
+          scrollToPageAfterLayout();
           button.blur();
         });
         buttons.push(button);
