@@ -81,10 +81,32 @@
           return;
         }
 
-        window.setTimeout(function () {
+        let stableTimer;
+        let maxTimer;
+        let observer;
+
+        function restore() {
+          if (observer) {
+            observer.disconnect();
+          }
+          window.clearTimeout(stableTimer);
+          window.clearTimeout(maxTimer);
           document.documentElement.style.minHeight = originalMinHeight;
           scrollToPage();
-        }, 150);
+        }
+
+        function scheduleRestore() {
+          window.clearTimeout(stableTimer);
+          stableTimer = window.setTimeout(restore, 200);
+        }
+
+        if (typeof ResizeObserver === 'function') {
+          observer = new ResizeObserver(scheduleRestore);
+          observer.observe(list);
+        }
+
+        scheduleRestore();
+        maxTimer = window.setTimeout(restore, 2000);
       }
 
       function scrollToPage() {
