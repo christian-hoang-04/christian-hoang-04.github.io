@@ -1,17 +1,68 @@
 (function () {
   const allowedPages = ['about', 'research'];
+  const scrollPositionKey = 'christian-hoang-scroll-position';
   const queryPage = new URLSearchParams(window.location.search).get('page');
-  const currentFile = window.location.pathname.split('/').pop() || 'index.html';
+  const pathSegments = window.location.pathname.split('/').filter(Boolean);
+  const currentSegment = pathSegments[pathSegments.length - 1] || '';
+  const currentPage = currentSegment === 'index.html'
+    ? pathSegments[pathSegments.length - 2] || 'about'
+    : currentSegment.replace(/\.html$/, '') || 'about';
 
-  if (queryPage && allowedPages.includes(queryPage) && (currentFile === 'index.html' || currentFile === '')) {
-    window.location.replace(`${queryPage}.html`);
+  function saveScrollPositionForNavigation() {
+    try {
+      sessionStorage.setItem(scrollPositionKey, String(window.scrollY));
+    } catch (error) {
+      // Ignore storage failures so navigation still works normally.
+    }
+  }
+
+  function restoreScrollPosition() {
+    let savedPosition;
+
+    try {
+      savedPosition = sessionStorage.getItem(scrollPositionKey);
+      sessionStorage.removeItem(scrollPositionKey);
+    } catch (error) {
+      return;
+    }
+
+    if (savedPosition === null) {
+      return;
+    }
+
+    const scrollY = Number(savedPosition);
+    if (!Number.isFinite(scrollY)) {
+      return;
+    }
+
+    if ('scrollRestoration' in history) {
+      history.scrollRestoration = 'manual';
+    }
+
+    function applyScrollPosition() {
+      window.scrollTo({ top: scrollY, behavior: 'auto' });
+    }
+
+    window.requestAnimationFrame(applyScrollPosition);
+    window.setTimeout(applyScrollPosition, 100);
+    window.setTimeout(applyScrollPosition, 300);
+  }
+
+  if (queryPage && allowedPages.includes(queryPage) && (currentSegment === 'index.html' || currentSegment === '')) {
+    window.location.replace(`${queryPage}/`);
     return;
   }
 
   document.addEventListener('DOMContentLoaded', function () {
-    const currentPage = currentFile.replace(/\.html$/, '') || 'about';
     document.querySelectorAll('#navmenu a').forEach(function (link) {
-      const target = link.getAttribute('href').replace(/\.html$/, '');
+      link.addEventListener('click', saveScrollPositionForNavigation);
+    });
+
+    window.addEventListener('pagehide', saveScrollPositionForNavigation);
+
+    document.querySelectorAll('#navmenu a').forEach(function (link) {
+      const targetPath = link.getAttribute('href').split('?')[0].replace(/\/+$/, '');
+      const target = targetPath.split('/').pop().replace(/\.html$/, '') || 'about';
       link.classList.toggle('active', target === currentPage);
     });
 
@@ -51,6 +102,7 @@
       pagination.className = 'pagination';
       pagination.setAttribute('aria-label', `${sectionName} pages`);
       const buttons = [];
+      const pageScrollPositions = {};
 
       function showPage(page) {
         items.forEach(function (item, index) {
@@ -148,15 +200,40 @@
         window.setTimeout(scrollToPage, 100);
       }
 
+      function restoreScrollPositionAfterPageChange(scrollY) {
+        function restore() {
+          window.scrollTo({ top: scrollY, behavior: 'auto' });
+        }
+
+        restore();
+        window.requestAnimationFrame(restore);
+        window.setTimeout(restore, 100);
+        window.setTimeout(restore, 300);
+      }
+
       for (let page = 1; page <= pageCount; page += 1) {
         const button = document.createElement('button');
         button.type = 'button';
         button.textContent = String(page);
         button.setAttribute('aria-label', `${sectionName}, page ${page}`);
         button.addEventListener('click', function () {
-          const originalMinHeight = reservePublicationHeight();
+          const currentPageIndex = buttons.findIndex(function (currentButton) {
+            return currentButton.getAttribute('aria-current') === 'page';
+          }) + 1;
+          const currentScrollY = window.scrollY;
+          pageScrollPositions[currentPageIndex] = currentScrollY;
+          const savedScrollY = Object.prototype.hasOwnProperty.call(pageScrollPositions, page)
+            ? pageScrollPositions[page]
+            : currentScrollY;
+          const originalMinHeight = list.dataset.pagination === 'publications'
+            ? null
+            : reservePublicationHeight();
           showPage(page);
-          scrollToPageAfterLayout();
+          if (list.dataset.pagination === 'publications') {
+            restoreScrollPositionAfterPageChange(savedScrollY);
+          } else {
+            scrollToPageAfterLayout();
+          }
           button.blur();
           restorePublicationHeight(originalMinHeight);
         });
@@ -167,5 +244,7 @@
       list.parentNode.insertBefore(pagination, list.nextSibling);
       showPage(1);
     });
+
+    restoreScrollPosition();
   });
 })();
