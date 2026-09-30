@@ -10,6 +10,20 @@ body {
   hyphens: auto;
 }
 
+#content ul.paginated-list[data-pagination='news'],
+#content ul.paginated-list[data-pagination='news'] > li {
+  text-align: justify !important;
+  text-justify: inter-word;
+  text-align-last: left;
+  hyphens: auto;
+  word-spacing: normal;
+}
+
+#content ul.paginated-list[data-pagination='news'] > li a,
+#content ul.paginated-list[data-pagination='news'] > li .news-important {
+  white-space: nowrap;
+}
+
 h1,
 h2,
 h3,
