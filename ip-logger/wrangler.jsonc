@@ -1,0 +1,20 @@
+{
+  "name": "christian-hoang-visitor-log",
+  "main": "src/index.mjs",
+  "compatibility_date": "2026-10-19",
+  "workers_dev": true,
+  "vars": {
+    "ALLOWED_ORIGIN": "https://christian-hoang-04.github.io"
+  },
+  "d1_databases": [
+    {
+      "binding": "VISITS",
+      "database_name": "christian-hoang-visits",
+      "database_id": "be5233f2-321f-404e-b3ef-25a690027ac8",
+      "migrations_dir": "migrations"
+    }
+  ],
+  "triggers": {
+    "crons": ["0 3 * * *"]
+  }
+}

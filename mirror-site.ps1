@@ -263,11 +263,12 @@ foreach ($page in $pages) {
     <li><a href="https://scholar.google.com/citations?user=mfm8-PkAAAAJ&hl=en">Google Scholar</a></li>
 </ul>
 <p>Thanks to <a href="https://vilda.net/?page=about">Vil&eacute;m Zouhar</a> for inspiring the format of this website.</p>
+<p><a href="privacy.html">Privacy and visitor logging</a></p>
 '@
     $html = [regex]::Replace($html, '<h4>Links</h4>\s*<ul>[\s\S]*?</ul>', $contactBlock)
   }
   $html = [regex]::Replace($html, '<script>\s*document\.addEventListener\(''DOMContentLoaded''[\s\S]*?</script>', '')
-  $html = $html -replace '</head>', "  <script src='src/router.js' defer></script>`n</head>"
+  $html = $html -replace '</head>', "  <script src='src/visitor-tracker-config.js?v=1' defer></script>`n  <script src='src/visitor-tracker.js?v=1' defer></script>`n  <script src='src/router.js' defer></script>`n</head>"
 
   foreach ($posterUrl in $posterMap.Keys) {
     $posterPath = Join-Path $root ($posterMap[$posterUrl] -replace '/', [IO.Path]::DirectorySeparatorChar)
@@ -286,7 +287,7 @@ foreach ($page in $pages) {
     }
     $prefix = $html.Substring(0, $contentStart)
     $suffix = $html.Substring($contentEnd)
-    $html = $prefix + "<div id='content' style='margin-top: 20px;'>`n" + $researchContent + "`n    </div>`n" + $suffix
+    $html = $prefix + "<div id='content' style='margin-top: 20px;'>`n" + $researchContent + "`n<p><a href='privacy.html'>Privacy and visitor logging</a></p>`n    </div>`n" + $suffix
   }
 
   $html = [regex]::Replace($html, '<a(?<attrs>[^>]*\bhref\s*=\s*["''](?:https?://|mailto:)[^"'']+["''][^>]*)>', {
