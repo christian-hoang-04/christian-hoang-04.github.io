@@ -15,7 +15,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Merriweather&display=swap"
     rel="stylesheet">
 
-  <link rel='stylesheet' type='text/css' href='../src/style.css?v=21'>
+  <link rel='stylesheet' type='text/css' href='../src/style.css?v=22'>
   <link rel='icon' type='image/jpeg' href='../src/avatar.jpg?v=2'>
   <title>Christian Hoang</title>
   <meta name="viewport" content="width=840px">
@@ -56,6 +56,14 @@
 <h4>Publications</h4>
 
 <div class='paginated-list' data-pagination='publications' data-items-per-page='5'>
+<div class='paper_details paper_details_withimg'>
+  <div class='paper_title'>One Head Away from Language Confusion: Single Attention Heads Across Model Families</div>
+  <span class='authors_span'>Ongoing;&nbsp;&nbsp;Jiwon Jeong, Anjelo Jann Laroza, Chaewoon Yoon, Arjun Pillai, Pranav Kokati, Christian Hoang, Seunghyeok Hong</span>
+  <div style='margin-top: 5px;'><a href='https://arxiv.org/pdf/2610.25026' class='paper_details_link' target="_blank" rel="noopener noreferrer">paper</a><a href='https://github.com/christian-hoang-04/anonymous-release' class='paper_details_link' target="_blank" rel="noopener noreferrer">code &amp; results</a></div>
+  <img class='project_visual project_visual_language_confusion' src='../img/language-confusion-workflow.png' alt='Workflow for testing language confusion: compare intact and target-head-ablated prompts, screen attention heads, then evaluate and analyze language behavior' loading='lazy' decoding='async'>
+  <div style='margin-top: 5px;'>Large language models sometimes reply in an unexpected language, a failure known as language confusion. We ablate individual attention heads in 12 model checkpoints spanning seven model series, using FLORES-200 continuations in five languages and Language Confusion Benchmark (LCB) chat replies. In ten models, zeroing one head causes substantially more departures from the expected language than zeroing any other head in its layer; its LCB pass-rate drop persists, though reduced, under mean ablation. Seven heads move 8.0 to 51.5 percent of all FLORES continuations out of the prompt's language, versus at most 1.4 percent for other same-layer heads; the other three mainly affect explicitly requested languages. These seven heads matter less in base models given plain text. In two models, replacing the values a head reads at the requested-language name with another language's mean makes replies fail and shifts some into that language, unlike a random change of equal size. Replacing a head's output with another language's mean redirects 84 to 99 percent of scored non-English monolingual LCB replies into that language in five models. Yet the requested language's mean improves crosslingual replies beyond every control head only in the two Gemma models, whose baselines are low. Code and results are available in the <a href='https://github.com/christian-hoang-04/anonymous-release' target="_blank" rel="noopener noreferrer">public repository</a>.</div>
+</div>
+
 <div class='paper_details paper_details_withimg'>
   <div class='paper_title'>FTB Graph: Determining and Validating First-token Broadcasters and Language-Identity Head Circuits in Multilingual Language Models</div>
   <span class='authors_span'>Ongoing;&nbsp;&nbsp;Arjun Pillai, Christian Hoang, Anjelo Laroza</span>
@@ -121,7 +129,6 @@
   <div style='margin-top: 5px;'>Visual Language Models have demonstrated remarkable capabilities across various tasks, including visual question answering and image captioning. However, most models rely on text-based instructions, limiting their effectiveness in natural human-machine interactions. Moreover, the quality of language models primarily depends on reasoning and prompting techniques, such as chain-of-thought, which remain underexplored when using speech instructions. To address these challenges, we propose SilVar, an end-to-end multimodal model that leverages speech instructions for reasoning-based visual question answering. Additionally, we investigate reasoning techniques at different levels, including conversational, simple, and complex speech instructions. SilVar is built upon CLIP, Whisper, and LLaMA 3.1-8B, enabling more intuitive interactions by allowing users to provide verbal or text-based instructions. To this end, we introduce a new dataset designed to challenge models with speech-based reasoning tasks for object localization. This dataset enhances the model&rsquo;s ability to process and explain visual scenes from spoken input, moving beyond simple object recognition to reasoning-based interactions. To our knowledge, SilVar is the first open-source, speech-driven VLM. We believe SilVar will inspire the next generation of multimodal reasoning models, advancing toward expert artificial general intelligence.</div>
 </div>
 
-<p><a href='../privacy.html'>Privacy and visitor logging</a></p>
 
 </div>
     </div>

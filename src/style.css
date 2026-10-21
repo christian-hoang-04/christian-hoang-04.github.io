@@ -12,16 +12,13 @@ body {
 
 #content ul.paginated-list[data-pagination='news'],
 #content ul.paginated-list[data-pagination='news'] > li {
-  text-align: justify !important;
-  text-justify: inter-word;
-  text-align-last: left;
+  text-align: left !important;
   hyphens: auto;
-  word-spacing: normal;
 }
 
 #content ul.paginated-list[data-pagination='news'] > li a,
 #content ul.paginated-list[data-pagination='news'] > li .news-important {
-  white-space: nowrap;
+  white-space: normal;
 }
 
 h1,
@@ -186,6 +183,14 @@ h4:first-child {
 }
 
 .paper_details img.project_visual_ftb_graph {
+  width: 450px;
+  height: auto;
+  max-width: 450px;
+  max-height: none;
+  margin-bottom: 0;
+}
+
+.paper_details img.project_visual_language_confusion {
   width: 450px;
   height: auto;
   max-width: 450px;
